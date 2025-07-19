@@ -1,4 +1,4 @@
-# QuizWiz 🚀
+# Quiz App 🚀
 
 A modern and responsive quiz app built using **React.js** and **CSS**. Features intuitive UI, progress tracking, and engaging multiple-choice interaction with a smooth gradient design.
 
